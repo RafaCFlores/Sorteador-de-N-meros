@@ -1,4 +1,8 @@
 
+// SORTEADOR DE NÚMEROS VERSÃO 2
+function testeGit() {
+        
+};
 
 
 function sortear() {
